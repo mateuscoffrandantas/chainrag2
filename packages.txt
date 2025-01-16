@@ -1,0 +1,6 @@
+rust
+rustc
+cargo
+zlib1g-dev
+python3-dev
+tesseract-ocr
